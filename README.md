@@ -14,9 +14,12 @@ https://github.com/java-james/flutter_redux_thunk_example
 * project structure
 * authentication
 
+
 * react
 * redux
 * redux-saga
 
+
 * prettier
 * eslint
+* themes
