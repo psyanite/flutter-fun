@@ -1,11 +1,12 @@
 # flutter-fun
 
-Looking for something?
+## Looking for something?
 
 https://solido.github.io/awesome-flutter/
 
 https://github.com/nisrulz/flutter-examples
 
+## Todo
 
 * styling
 * routing
@@ -23,7 +24,7 @@ https://github.com/nisrulz/flutter-examples
 * themes
 
 
-TBD
+## TBD
 
 https://proandroiddev.com/how-to-dynamically-change-the-theme-in-flutter-698bd022d0f0
 
@@ -33,7 +34,7 @@ https://github.com/zino-app/graphql-flutter
 
 
 
-Done
+## Done
 
 https://hackernoon.com/flutter-redux-how-to-make-shopping-list-app-1cd315e79b65
 
