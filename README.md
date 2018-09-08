@@ -10,6 +10,8 @@ https://github.com/java-james/flutter_redux_thunk_example
 
 https://medium.com/budi-brain/designing-in-app-survey-6163304e88dd
 
+https://github.com/flutter/flutter/blob/master/examples/flutter_gallery/lib/demo/material/bottom_navigation_demo.dart
+
 
 * styling
 * routing
