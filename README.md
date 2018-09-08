@@ -8,6 +8,8 @@ https://proandroiddev.com/how-to-dynamically-change-the-theme-in-flutter-698bd02
 
 https://github.com/java-james/flutter_redux_thunk_example
 
+https://medium.com/budi-brain/designing-in-app-survey-6163304e88dd
+
 
 * styling
 * routing
