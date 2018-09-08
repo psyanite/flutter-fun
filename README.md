@@ -41,3 +41,16 @@ https://hackernoon.com/flutter-redux-how-to-make-shopping-list-app-1cd315e79b65
 https://github.com/java-james/flutter_redux_thunk_example
 
 https://medium.com/budi-brain/designing-in-app-survey-6163304e88dd
+
+
+```
+lib/
+|- screens/
+|- util/
+|- widgets/
+|- data/
+|- services/
+|- main.dart
+|- routes.dart
+
+```
