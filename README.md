@@ -6,6 +6,8 @@ https://solido.github.io/awesome-flutter/
 
 https://github.com/nisrulz/flutter-examples
 
+https://github.com/ericwindmill/flutter_by_example_apps
+
 ## Todo
 
 * styling
