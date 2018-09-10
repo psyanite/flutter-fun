@@ -30,6 +30,8 @@ https://proandroiddev.com/how-to-dynamically-change-the-theme-in-flutter-698bd02
 
 https://github.com/flutter/flutter/blob/master/examples/flutter_gallery/lib/demo/material/bottom_navigation_demo.dart
 
+https://github.com/nisrulz/flutter-examples/tree/master/using_bottom_nav_bar
+
 https://github.com/zino-app/graphql-flutter
 
 
