@@ -36,6 +36,7 @@ https://github.com/nisrulz/flutter-examples/tree/master/using_bottom_nav_bar
 
 https://github.com/zino-app/graphql-flutter
 
+https://github.com/johnpryan/redux.dart/blob/master/doc/combine_reducers.md
 
 
 ## Done
