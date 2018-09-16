@@ -38,6 +38,8 @@ https://github.com/zino-app/graphql-flutter
 
 https://github.com/johnpryan/redux.dart/blob/master/doc/combine_reducers.md
 
+https://proandroiddev.com/flutter-layout-cheat-sheet-5363348d037e
+
 
 ## Done
 
