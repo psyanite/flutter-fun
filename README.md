@@ -8,6 +8,8 @@ https://github.com/nisrulz/flutter-examples
 
 https://github.com/ericwindmill/flutter_by_example_apps
 
+https://github.com/flutter/plugins
+
 ## Todo
 
 * styling
